@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio_rohit/static/css/main.67264f24.css",
+    "main.js": "/Portfolio_rohit/static/js/main.43c3b3e6.js",
+    "static/js/787.f9a92489.chunk.js": "/Portfolio_rohit/static/js/787.f9a92489.chunk.js",
+    "static/media/work3.jpg": "/Portfolio_rohit/static/media/work3.67bc940b6d1ecc8972a0.jpg",
+    "static/media/work5.png": "/Portfolio_rohit/static/media/work5.6766602c01cf113e74ce.png",
+    "static/media/work4.png": "/Portfolio_rohit/static/media/work4.afc4ec74287c84b354a6.png",
+    "static/media/ROHIT_RESUME.pdf": "/Portfolio_rohit/static/media/ROHIT_RESUME.4ee9175a5cb825e99cb8.pdf",
+    "static/media/about.jpg": "/Portfolio_rohit/static/media/about.d970ae2f9e6e5c48da8e.jpg",
+    "static/media/profile.jpg": "/Portfolio_rohit/static/media/profile.294878d265d5a0c864f6.jpg",
+    "static/media/work1.jpg": "/Portfolio_rohit/static/media/work1.359664309a7f23d8b366.jpg",
+    "static/media/work2.jpg": "/Portfolio_rohit/static/media/work2.31ae925c125d4c6b8581.jpg",
+    "index.html": "/Portfolio_rohit/index.html",
+    "main.67264f24.css.map": "/Portfolio_rohit/static/css/main.67264f24.css.map",
+    "main.43c3b3e6.js.map": "/Portfolio_rohit/static/js/main.43c3b3e6.js.map",
+    "787.f9a92489.chunk.js.map": "/Portfolio_rohit/static/js/787.f9a92489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67264f24.css",
+    "static/js/main.43c3b3e6.js"
+  ]
+}
