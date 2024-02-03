@@ -18,7 +18,7 @@ const Footer = () => {
                 </li>
 
                 <li>
-                    <a href="#about" className="footer__link">About</a>
+                    <a href="#skills" className="footer__link">Skills</a>
                 </li>
             
             </ul>
@@ -36,7 +36,7 @@ const Footer = () => {
             </div>
 
             <span className="footer__copy">
-                &#169; RohitSingh. All rights reserved
+                &#169;RohitSingh. All rights reserved
             </span>
         </div>
     </footer>
