@@ -57,8 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">FullStack Developer</h3>
       <p className="home__description">
-      A budding graduate and Self-motivated, highly passionate and hardworking fresher looking for an opportunity to work in a challenging environment and to utilise my skills and knowledge gained during my graduation to work for the growth of the organisation. Looking for an entry-level position in an organization that offers good growth prospects.
-      </p>
+      Hello there! I'm Rohit Singh, your go-to coding enthusiast! I've got a heart brimming with excitement and a mind buzzing with curiosity. My mission? Bringing computer programs to life! Picture me as a creative wizard, always eager to learn and conjure up technological magic, turning ideas into amazing realities!      </p>
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg
