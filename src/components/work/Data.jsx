@@ -12,7 +12,7 @@ export const projectsData = [
       image: Work1,
       title: "Volt",
       category: "web",
-      link: "https://rohit-singh-rs31321.github.io/uber_clone/index.html",
+      link: "https://volt-myapp.netlify.app/",
     },
     {
       id: 2,
