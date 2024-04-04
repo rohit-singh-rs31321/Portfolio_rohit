@@ -26,7 +26,7 @@ This portfolio website serves as a showcase of my projects, skills, and experien
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone [https://github.com/your-username/portfolio.git](https://github.com/rohit-singh-rs31321/Portfolio_rohit.git)`
+1. Clone this repository to your local machine using `git clone https://github.com/rohit-singh-rs31321/Portfolio_rohit.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Install dependencies by running: `npm install`
 4. Start the development server: `npm start`
